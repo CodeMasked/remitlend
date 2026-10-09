@@ -12,7 +12,7 @@ RemitLend treats remittance history as credit history. Migrant workers prove the
 
 123
 
-## ✨ Key Features
+## ✨ Key Feature
 
 ### For Borrowers
 
